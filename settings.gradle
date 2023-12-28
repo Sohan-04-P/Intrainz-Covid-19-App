@@ -1,0 +1,3 @@
+rootProject.name = "GroupAssignment"
+include ':app'
+include ':admin_covid'
